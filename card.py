@@ -1,0 +1,6 @@
+print("****************************")
+print("Ad: Cahid Məmmədov")
+print("Yaş: 18")
+print("Şəhər: Bakı")
+print("Boy: 1.80")
+print("****************************")
